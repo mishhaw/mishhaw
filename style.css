@@ -1,0 +1,29 @@
+h1 {
+
+    font-size: 60px;
+    color: rgb(170, 141, 223);
+
+    font-family: "Cactus Classical Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+p {
+    font-size: 30px;
+    color: rgb(152, 96, 216);
+    font-family: "Cactus Classical Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(33, 73, 39);
+    font-family: "Cactus Classical Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    background-image: url("img/1621948173_content_700x455.jpg");
+}
